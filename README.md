@@ -10,6 +10,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
 <h3>Desktop</h3>
-<img src="https://github.com/hoffmanndouglas-stack/easy-shopping/blob/main/assets/Desktop.png?raw=true"/>
+<img src="./Assets/Desktop.png"/>
 <h4>Mobile</h4>
-<img src="https://github.com/hoffmanndouglas-stack/easy-shopping/blob/main/assets/mobile.png?raw=true"/>
+<img src="./Assets/Mobile.png"/>
